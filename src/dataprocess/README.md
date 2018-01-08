@@ -20,3 +20,7 @@
 ### c) image to image
 ### d) image to vector
 ### e) word to vector
+
+## 5. Data validation
+
+## 6. SQL DB Connection
